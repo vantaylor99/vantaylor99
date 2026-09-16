@@ -1,13 +1,13 @@
 # Hi, I'm Van Taylor 👋
-I'm a software developer and student with a growing focus on **AI, machine learning, computer vision, and software engineering**.
+I'm a software developer, student, and Lead UI/UX Designer & Mobile App Developer for [Pollen Wise](https://apps.apple.com/us/app/pollen-wise/id1474856970), with a growing focus on AI, machine learning, computer vision, and software engineering.
 
 I enjoy building things that solve real problems, experimenting with new technology, and figuring out how AI can be used for more than just productivity.
 
 
 ## About Me
-- I'm currently studying software development and computer science.
+- I currently lead UI/UX design and mobile app development for Pollen Wise, helping improve the experience for thousands of active users.
+- My work includes product design, user feedback analysis, prototyping, interface redesigns, and Flutter/Dart development.
 - I'm exploring AI integrations, APIs, MCP servers, computer vision, and local AI models.
-- I have experience building mobile applications with Flutter & Dart.
 - I'm especially interested in combining traditional software development with modern AI tools and models.
 - One of my long-term goals is to build technology that helps people overcome pornography and other forms of addiction.
 - My own experiences overcoming addiction have heavily influenced the kinds of problems I want to solve through technology.
