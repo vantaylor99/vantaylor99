@@ -15,11 +15,30 @@ I enjoy building things that solve real problems, experimenting with new technol
 
 
 **Languages & Frameworks**
-- Python
-- C#
-- Dart / Flutter
-- JavaScript
-- SQL
+<table>
+  <tr>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="24" height="24"/></td>
+    <td align="left" valign="middle">Python</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="24" height="24"/></td>
+    <td align="left" valign="middle">C#</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/flutter/flutter-plain.svg" alt="Flutter" width="24" height="24"/>
+    </td>
+    <td align="left" valign="middle">Flutter & Dart</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="24" height="24"/></td>
+    <td align="left" valign="middle">JavaScript</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="24" height="24"/></td>
+    <td align="left" valign="middle">SQL</td>
+  </tr>
+</table>
 
 
 **Currently Exploring**
