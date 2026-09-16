@@ -5,7 +5,7 @@ I enjoy building things that solve real problems, experimenting with new technol
 
 
 ## About Me
-- I currently lead UI/UX design and mobile app development for Pollen Wise, helping improve the experience for thousands of active users.
+- I currently lead UI/UX design and mobile app development for [Pollen Wise](https://apps.apple.com/us/app/pollen-wise/id1474856970), helping improve the experience for thousands of active users.
 - My work includes product design, user feedback analysis, prototyping, interface redesigns, and Flutter/Dart development.
 - I'm exploring AI integrations, APIs, MCP servers, computer vision, and local AI models.
 - I'm especially interested in combining traditional software development with modern AI tools and models.
