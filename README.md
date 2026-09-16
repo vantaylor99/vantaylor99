@@ -1,11 +1,9 @@
 # Hi, I'm Van Taylor 👋
-
 I'm a software developer and student with a growing focus on **AI, machine learning, computer vision, and software engineering**.
 
 I enjoy building things that solve real problems, experimenting with new technology, and figuring out how AI can be used for more than just productivity.
 
 ## About Me
-
 -I'm currently studying software development and computer science.
 -I'm exploring AI integrations, APIs, MCP servers, computer vision, and local AI models.
 -I have experience building mobile applications with Flutter & Dart.
@@ -15,7 +13,6 @@ I enjoy building things that solve real problems, experimenting with new technol
 -I'm always looking for opportunities to build, experiment, and learn something new.
 
 **Languages & Frameworks**
-
 - Python
 - C#
 - Dart / Flutter
@@ -23,7 +20,6 @@ I enjoy building things that solve real problems, experimenting with new technol
 - SQL
 
 **Currently Exploring**
-
 - Game Development (unity)
 - Machine Learning
 - Computer Vision
@@ -33,7 +29,6 @@ I enjoy building things that solve real problems, experimenting with new technol
 - Local AI Models
 
 **Other Strengths**
-
 - Creative problem solving
 - Leadership
 - Communication
@@ -42,7 +37,6 @@ I enjoy building things that solve real problems, experimenting with new technol
 - Turning ideas into working prototypes
 
 ## 🌱 What I'm Working Toward
-
 I'm particularly interested in projects where **AI, software, and human behavior intersect**.
 
 Long term, I want to use what I learn in AI and software engineering to create tools that help people overcome addiction, develop healthier habits, and make meaningful changes in their lives.
@@ -50,7 +44,6 @@ Long term, I want to use what I learn in AI and software engineering to create t
 You'll also find plenty of experiments here as I learn new technologies, build personal projects, and turn ideas into working software.
 
 ## Let's Connect!
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/vantaylor99/)
 - 🌐 [Personal Website](https://developer.van-taylor.com/)
 
