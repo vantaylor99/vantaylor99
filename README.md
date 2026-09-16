@@ -10,7 +10,7 @@ I enjoy building things that solve real problems, experimenting with new technol
 - I'm exploring AI integrations, APIs, MCP servers, computer vision, and local AI models.
 - I'm especially interested in combining traditional software development with modern AI tools and models.
 - One of my long-term goals is to build technology that helps people overcome pornography and other forms of addiction.
-- My own experiences overcoming addiction have heavily influenced the kinds of problems I want to solve through technology.
+- [My own experiences overcoming addiction](https://www.instagram.com/p/DcSq4fLRXWY/) have heavily influenced the kinds of problems I want to solve through technology.
 - I'm always looking for opportunities to build, experiment, and learn something new.
 
 
