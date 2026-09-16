@@ -24,7 +24,7 @@ I enjoy building things that solve real problems, experimenting with new technol
 
 **Currently Exploring**
 
--Game Development (unity)
+- Game Development (unity)
 - Machine Learning
 - Computer Vision
 - AI Agents
