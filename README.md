@@ -1,4 +1,6 @@
 # Hi, I'm Van Taylor 👋
+![portrait](https://developer.van-taylor.com/assets/canva-portfolio/van-taylor-outdoor-portrait.jpg)
+
 I'm a software developer, student, and Lead UI/UX Designer & Mobile App Developer for [Pollen Wise](https://apps.apple.com/us/app/pollen-wise/id1474856970), with a growing focus on AI, machine learning, computer vision, and software engineering.
 
 I enjoy building things that solve real problems, experimenting with new technology, and figuring out how AI can be used for more than just productivity.
@@ -66,6 +68,12 @@ I'm particularly interested in projects where **AI, software, and human behavior
 Long term, I want to use what I learn in AI and software engineering to create tools that help people overcome addiction, develop healthier habits, and make meaningful changes in their lives.
 
 You'll also find plenty of experiments here as I learn new technologies, build personal projects, and turn ideas into working software.
+
+
+## 🔨 Projects
+- [Pollen Wise](https://apps.apple.com/cy/app/pollen-wise/id1474856970): An app that I helped redesign from the ground up improving overall customer satisfaction from 15% to over 60%.
+- [To The Moon](https://vantaylor99.github.io/wdd231/toTheMoon/): A fun project where I try and measure how far Bitcoin is from actually reaching the moon.
+- [What to Watch Next](https://vantaylor99.github.io/rmp-wdd330/): A website focused on spinning generic movie genres into a feeling of what you want to watch next. 
 
 
 ## Let's Connect!
